@@ -8,3 +8,14 @@ C:\Users\Hector\source\repos\Diffusion\Diffusion\obj\Debug\Diffusion.csproj.Gene
 C:\Users\Hector\source\repos\Diffusion\Diffusion\obj\Debug\Diffusion.csproj.CoreCompileInputs.cache
 C:\Users\Hector\source\repos\Diffusion\Diffusion\obj\Debug\Diffusion.exe
 C:\Users\Hector\source\repos\Diffusion\Diffusion\obj\Debug\Diffusion.pdb
+C:\Users\hecto\Source\Repos\diffusion\Diffusion\Diffusion\bin\Debug\Diffusion.exe.config
+C:\Users\hecto\Source\Repos\diffusion\Diffusion\Diffusion\bin\Debug\Diffusion.exe
+C:\Users\hecto\Source\Repos\diffusion\Diffusion\Diffusion\bin\Debug\Diffusion.pdb
+C:\Users\hecto\Source\Repos\diffusion\Diffusion\Diffusion\obj\Debug\Diffusion.csproj.AssemblyReference.cache
+C:\Users\hecto\Source\Repos\diffusion\Diffusion\Diffusion\obj\Debug\Diffusion.csproj.SuggestedBindingRedirects.cache
+C:\Users\hecto\Source\Repos\diffusion\Diffusion\Diffusion\obj\Debug\Diffusion.Form1.resources
+C:\Users\hecto\Source\Repos\diffusion\Diffusion\Diffusion\obj\Debug\Diffusion.Properties.Resources.resources
+C:\Users\hecto\Source\Repos\diffusion\Diffusion\Diffusion\obj\Debug\Diffusion.csproj.GenerateResource.cache
+C:\Users\hecto\Source\Repos\diffusion\Diffusion\Diffusion\obj\Debug\Diffusion.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Source\Repos\diffusion\Diffusion\Diffusion\obj\Debug\Diffusion.exe
+C:\Users\hecto\Source\Repos\diffusion\Diffusion\Diffusion\obj\Debug\Diffusion.pdb
